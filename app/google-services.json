@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273140849136",
+    "firebase_url": "https://tugaskelompokpml-default-rtdb.firebaseio.com",
+    "project_id": "tugaskelompokpml",
+    "storage_bucket": "tugaskelompokpml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273140849136:android:424c494c2c2aace9d12535",
+        "android_client_info": {
+          "package_name": "com.example.riozulfa5190411478.tugasakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273140849136-6t6h2b9frfk3nu1tddf01e51hdeirrpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4I47xfNtsbCjIl97tuG33d40x665Aq9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273140849136-6t6h2b9frfk3nu1tddf01e51hdeirrpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
